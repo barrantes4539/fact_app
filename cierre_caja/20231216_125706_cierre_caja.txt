@@ -1,0 +1,8 @@
+Reporte generado el 20231216_125706
+Cliente: Esteban, Correo: esteban@gmail.com, Producto: Celular, Cantidad: 1, Precio Unitario: 350000, Total con IVA: 395499.99999999994
+Cliente: Jasson, Correo: jasson@gmail.com, Producto: PS5, Cantidad: 2, Precio Unitario: 800000, Total con IVA: 1807999.9999999998
+Motivo Gasto: Compra a proveedores, Monto: 500000
+**********************CIERRE DE CAJA***************************
+Ingresos: 2203499
+Gastos: 500000
+Total Ganancias: 1703499

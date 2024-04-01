@@ -1,0 +1,7 @@
+Reporte generado el 20231216_004627
+Cliente: Kevin, Correo: asd, Producto: Tablet, Cantidad: 2, Precio Unitario: 250000, Total con IVA: 565000.0
+Motivo Gasto: pan, Monto: 3000
+**********************CIERRE DE CAJA***************************
+Ingresos: 565000
+Gastos: 3000
+Total Ganancias: 562000.0
